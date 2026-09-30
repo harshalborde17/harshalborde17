@@ -2,13 +2,16 @@ Hiii, I'm Harshal
 
 AI & Python Developer
 
+
 🚀 ##About Me
+
 • Interested in AI, Generative AI and Machine Learning
 • Building RAG-based applications
 • Working with Python, FastAPI and modern AI tools
 • Interested in AI-powered DAM and fashion technology
 
 🛠️ ##Tech Stack
+
 Python | FastAPI | Machine Learning | GenAI
 RAG | Sentence Transformers
 HTML | CSS | JavaScript | Git | GitHub
