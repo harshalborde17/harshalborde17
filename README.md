@@ -18,8 +18,8 @@ HTML | CSS | JavaScript | Git | GitHub
 
 🚀 ##Featured Projects:-
 
-🎬 Movie Recommendation System
-🤖 Customer Support AI
+> Movie Recommendation System
+> Customer Support AI
 
 🧠 Areas I'm Exploring
 
