@@ -24,17 +24,17 @@ HTML | CSS | JavaScript | Git | GitHub
 🧠 Areas I'm Exploring
 
 —Generative AI
-      ↓
+      
 —Large Language Models
-      ↓
+      
 —RAG Systems
-      ↓
+      
 —Vector Databases
-      ↓
+      
 —Semantic Search
-      ↓
+      
 —AI Agents
-      ↓
+      
 —Intelligent Applications
 
 I'm particularly interested in combining these technologies to build useful AI products rather than only experimental models.
